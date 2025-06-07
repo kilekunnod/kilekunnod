@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adekilekun!
-- 👀 I’m interested in Security Engineering & Ethical Hacking, and I also have interests in Machine Learning/AI, and sometimes dabble in Frontend dev for fun!
+- 👀 I’m interested in Security Engineering & Ethical Hacking, and I also have interests in Machine Learning/AI, and enjoy Frontend dev for fun!
 - 🌱 I’m currently learning about Network Engineering, and Penetration Testing, whilst reading about Machine Learning.
 - 💞️ I’m looking to continue learning and building knowledge.
 - 📫 How to reach me ...kilekunonajide@gmail.com, onajide.adekilekun@stu.cu.edu.ng. 
